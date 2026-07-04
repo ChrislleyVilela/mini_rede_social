@@ -1,7 +1,6 @@
 # Mini Rede Social
 
 Trabalho Final - Disciplina: Algoritmo, Estruturas de Dados e Programacao
-Professor: Joselito Junior - PiauÃ­Â­ Instituto de Tecnologia (PIT)
 
 ---
 
